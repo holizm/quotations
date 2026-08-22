@@ -1,0 +1,54 @@
+quotation
+    title
+    number
+    customer
+    salesPerson optional
+    lead optional
+    quotationDate
+    validUntilDate optional
+    currency
+    subtotal realNumber
+    discount realNumber optional
+    tax realNumber optional
+    total realNumber
+    state
+    description optional
+    unique number
+quotationItem
+    quotation
+    item
+    quantity realNumber
+    unitPrice realNumber
+    discount realNumber optional
+    total realNumber
+    description optional
+quotationRevision
+    quotation
+    revisionNumber integer
+    revisionDate
+    subtotal realNumber
+    discount realNumber optional
+    tax realNumber optional
+    total realNumber
+    reason optional
+    unique quotation revisionNumber
+quotationRevisionItem
+    quotationRevision
+    item
+    quantity realNumber
+    unitPrice realNumber
+    discount realNumber optional
+    total realNumber
+    description optional
+quotationResponse
+    quotation
+    customer
+    responseDate
+    accepted yesNo
+    description optional
+    unique quotation
+quotationConversion
+    quotation
+    order
+    convertedDate
+    unique quotation

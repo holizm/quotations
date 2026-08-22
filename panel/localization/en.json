@@ -1,0 +1,20 @@
+{
+    "quotationsCurrency": "Currency",
+    "quotationsCustomer": "Customer",
+    "quotationsDescription": "Description",
+    "quotationsDiscount": "Discount",
+    "quotationsNumber": "Number",
+    "quotationsQuotation": "Quotation",
+    "quotationsQuotationDate": "Quotation date",
+    "quotationsQuotations": "Quotations",
+    "quotationsReason": "Reason",
+    "quotationsRevisionDate": "Revision date",
+    "quotationsRevisionNumber": "Revision number",
+    "quotationsRevisions": "Revisions",
+    "quotationsSalesPerson": "Salesperson",
+    "quotationsState": "State",
+    "quotationsSubtotal": "Subtotal",
+    "quotationsTax": "Tax",
+    "quotationsTotal": "Total",
+    "quotationsValidUntilDate": "Valid until"
+}

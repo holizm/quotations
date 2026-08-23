@@ -1,4 +1,4 @@
-export default ({ quotation }) => <article class='quotationSummary'>
+export default ({ quotation }) => <article class='summary'>
     <h2 class='title'>{quotation.title}</h2>
     <span class='number'>{quotation.number}</span>
     <time class='validUntilDate'>{quotation.validUntilDate}</time>

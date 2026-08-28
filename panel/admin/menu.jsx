@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'requestQuote',
+        path: '/quotations',
         title: 'quotationsQuotations',
     },
 ]

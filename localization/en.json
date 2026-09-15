@@ -1,3 +1,29 @@
 {
-    "quotationsValidUntilDate": "Valid until"
+    "common": {
+        "validUntilDate": "Valid until"
+    },
+    "api": {},
+    "panel": {
+        "currency": "Currency",
+        "customer": "Customer",
+        "description": "Description",
+        "discount": "Discount",
+        "number": "Number",
+        "quotation": "Quotation",
+        "quotationDate": "Quotation date",
+        "quotations": "Quotations",
+        "reason": "Reason",
+        "revisionDate": "Revision date",
+        "revisionNumber": "Revision number",
+        "revisions": "Revisions",
+        "salesPerson": "Salesperson",
+        "state": "State",
+        "subtotal": "Subtotal",
+        "tax": "Tax",
+        "total": "Total"
+    },
+    "site": {
+        "accept": "Accept quotation",
+        "reject": "Reject quotation"
+    }
 }

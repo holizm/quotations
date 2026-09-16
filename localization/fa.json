@@ -1,9 +1,6 @@
 {
     "common": {
-        "validUntilDate": "مهلت اعتبار"
-    },
-    "api": {},
-    "panel": {
+        "validUntilDate": "مهلت اعتبار",
         "currency": "ارز",
         "customer": "مشتری",
         "description": "توضیحات",
@@ -20,9 +17,7 @@
         "state": "مرحله",
         "subtotal": "جمع جزء",
         "tax": "مالیات",
-        "total": "مجموع"
-    },
-    "site": {
+        "total": "مجموع",
         "accept": "پذیرش پیش‌فاکتور",
         "reject": "رد پیش‌فاکتور"
     }

@@ -1,9 +1,6 @@
 {
     "common": {
-        "validUntilDate": "Valid until"
-    },
-    "api": {},
-    "panel": {
+        "validUntilDate": "Valid until",
         "currency": "Currency",
         "customer": "Customer",
         "description": "Description",
@@ -20,9 +17,7 @@
         "state": "State",
         "subtotal": "Subtotal",
         "tax": "Tax",
-        "total": "Total"
-    },
-    "site": {
+        "total": "Total",
         "accept": "Accept quotation",
         "reject": "Reject quotation"
     }

@@ -13,7 +13,7 @@ const headers = <>
     <th>quotationsQuotationDate</th>
     <th>quotationsValidUntilDate</th>
     <th>quotationsTotal</th>
-    <th>quotationsState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>

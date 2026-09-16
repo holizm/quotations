@@ -12,8 +12,6 @@
         "salesPerson": "Salesperson",
         "subtotal": "Subtotal",
         "tax": "Tax",
-        "total": "Total",
-        "accept": "Accept quotation",
-        "reject": "Reject quotation"
+        "total": "Total"
     }
 }

@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "유효 기한",
+        "customer": "고객",
+        "discount": "할인",
+        "quotation": "견적서",
+        "quotationDate": "견적일",
+        "quotations": "견적서",
+        "revisionDate": "개정일",
+        "revisionNumber": "개정 번호",
+        "revisions": "개정 이력",
+        "salesPerson": "영업 담당자",
+        "subtotal": "소계",
+        "tax": "세금",
+        "total": "합계"
+    }
+}

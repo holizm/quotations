@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "આ તારીખ સુધી માન્ય",
+        "customer": "ગ્રાહક",
+        "discount": "ડિસ્કાઉન્ટ",
+        "quotation": "ભાવપત્રક",
+        "quotationDate": "ભાવપત્રકની તારીખ",
+        "quotations": "ભાવપત્રકો",
+        "revisionDate": "સુધારાની તારીખ",
+        "revisionNumber": "સુધારા નંબર",
+        "revisions": "સુધારાઓ",
+        "salesPerson": "વેચાણ પ્રતિનિધિ",
+        "subtotal": "પેટાકુલ",
+        "tax": "કર",
+        "total": "કુલ"
+    }
+}

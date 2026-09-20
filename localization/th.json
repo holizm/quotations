@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "ใช้ได้ถึง",
+        "customer": "ลูกค้า",
+        "discount": "ส่วนลด",
+        "quotation": "ใบเสนอราคา",
+        "quotationDate": "วันที่เสนอราคา",
+        "quotations": "ใบเสนอราคา",
+        "revisionDate": "วันที่แก้ไข",
+        "revisionNumber": "หมายเลขการแก้ไข",
+        "revisions": "การแก้ไข",
+        "salesPerson": "พนักงานขาย",
+        "subtotal": "ยอดรวมย่อย",
+        "tax": "ภาษี",
+        "total": "ยอดรวม"
+    }
+}

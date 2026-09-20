@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Wúlò títí di",
+        "customer": "Oníbàárà",
+        "discount": "Ẹ̀dinwó",
+        "quotation": "Àkọsílẹ̀ iye owó",
+        "quotationDate": "Ọjọ́ àkọsílẹ̀ iye owó",
+        "quotations": "Àwọn àkọsílẹ̀ iye owó",
+        "revisionDate": "Ọjọ́ àtúnṣe",
+        "revisionNumber": "Nọ́mbà àtúnṣe",
+        "revisions": "Àwọn àtúnṣe",
+        "salesPerson": "Aṣojú títà",
+        "subtotal": "Àpapọ̀ kékeré",
+        "tax": "Owó orí",
+        "total": "Àpapọ̀"
+    }
+}

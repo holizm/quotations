@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Geldig tot",
+        "customer": "Kliënt",
+        "discount": "Afslag",
+        "quotation": "Kwotasie",
+        "quotationDate": "Kwotasiedatum",
+        "quotations": "Kwotasies",
+        "revisionDate": "Hersieningsdatum",
+        "revisionNumber": "Hersieningsnommer",
+        "revisions": "Hersienings",
+        "salesPerson": "Verkoopsverteenwoordiger",
+        "subtotal": "Subtotaal",
+        "tax": "Belasting",
+        "total": "Totaal"
+    }
+}

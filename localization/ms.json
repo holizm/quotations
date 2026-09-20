@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Sah sehingga",
+        "customer": "Pelanggan",
+        "discount": "Diskaun",
+        "quotation": "Sebut harga",
+        "quotationDate": "Tarikh sebut harga",
+        "quotations": "Sebut harga",
+        "revisionDate": "Tarikh semakan",
+        "revisionNumber": "Nombor semakan",
+        "revisions": "Semakan",
+        "salesPerson": "Jurujual",
+        "subtotal": "Jumlah kecil",
+        "tax": "Cukai",
+        "total": "Jumlah"
+    }
+}

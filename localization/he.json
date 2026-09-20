@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "בתוקף עד",
+        "customer": "לקוח",
+        "discount": "הנחה",
+        "quotation": "הצעת מחיר",
+        "quotationDate": "תאריך הצעת המחיר",
+        "quotations": "הצעות מחיר",
+        "revisionDate": "תאריך עדכון",
+        "revisionNumber": "מספר עדכון",
+        "revisions": "עדכונים",
+        "salesPerson": "איש מכירות",
+        "subtotal": "סכום ביניים",
+        "tax": "מס",
+        "total": "סך הכול"
+    }
+}

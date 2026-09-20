@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Важи до",
+        "customer": "Купац",
+        "discount": "Попуст",
+        "quotation": "Понуда",
+        "quotationDate": "Датум понуде",
+        "quotations": "Понуде",
+        "revisionDate": "Датум измене",
+        "revisionNumber": "Број измене",
+        "revisions": "Измене",
+        "salesPerson": "Продајни представник",
+        "subtotal": "Међузбир",
+        "tax": "Порез",
+        "total": "Укупно"
+    }
+}

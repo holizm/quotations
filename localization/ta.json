@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "செல்லுபடியாகும் தேதி",
+        "customer": "வாடிக்கையாளர்",
+        "discount": "தள்ளுபடி",
+        "quotation": "விலைப்புள்ளி",
+        "quotationDate": "விலைப்புள்ளி தேதி",
+        "quotations": "விலைப்புள்ளிகள்",
+        "revisionDate": "திருத்தத் தேதி",
+        "revisionNumber": "திருத்த எண்",
+        "revisions": "திருத்தங்கள்",
+        "salesPerson": "விற்பனைப் பிரதிநிதி",
+        "subtotal": "இடைக்கூட்டுத்தொகை",
+        "tax": "வரி",
+        "total": "மொத்தம்"
+    }
+}

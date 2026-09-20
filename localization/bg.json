@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Валидна до",
+        "customer": "Клиент",
+        "discount": "Отстъпка",
+        "quotation": "Ценова оферта",
+        "quotationDate": "Дата на офертата",
+        "quotations": "Ценови оферти",
+        "revisionDate": "Дата на редакцията",
+        "revisionNumber": "Номер на редакцията",
+        "revisions": "Редакции",
+        "salesPerson": "Търговец",
+        "subtotal": "Междинна сума",
+        "tax": "Данък",
+        "total": "Общо"
+    }
+}

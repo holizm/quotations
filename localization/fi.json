@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Voimassa asti",
+        "customer": "Asiakas",
+        "discount": "Alennus",
+        "quotation": "Tarjous",
+        "quotationDate": "Tarjouksen päiväys",
+        "quotations": "Tarjoukset",
+        "revisionDate": "Muutospäivä",
+        "revisionNumber": "Muutosnumero",
+        "revisions": "Muutokset",
+        "salesPerson": "Myyjä",
+        "subtotal": "Välisumma",
+        "tax": "Vero",
+        "total": "Yhteensä"
+    }
+}

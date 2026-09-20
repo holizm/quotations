@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "有効期限",
+        "customer": "顧客",
+        "discount": "割引",
+        "quotation": "見積書",
+        "quotationDate": "見積日",
+        "quotations": "見積書",
+        "revisionDate": "改訂日",
+        "revisionNumber": "改訂番号",
+        "revisions": "改訂履歴",
+        "salesPerson": "営業担当者",
+        "subtotal": "小計",
+        "tax": "税",
+        "total": "合計"
+    }
+}

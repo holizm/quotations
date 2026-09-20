@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Geçerlilik tarihi",
+        "customer": "Müşteri",
+        "discount": "İndirim",
+        "quotation": "Fiyat teklifi",
+        "quotationDate": "Teklif tarihi",
+        "quotations": "Fiyat teklifleri",
+        "revisionDate": "Revizyon tarihi",
+        "revisionNumber": "Revizyon numarası",
+        "revisions": "Revizyonlar",
+        "salesPerson": "Satış temsilcisi",
+        "subtotal": "Ara toplam",
+        "tax": "Vergi",
+        "total": "Toplam"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Yana aiki har zuwa",
+        "customer": "Abokin ciniki",
+        "discount": "Rangwame",
+        "quotation": "Tayin farashi",
+        "quotationDate": "Ranar tayin farashi",
+        "quotations": "Tayin farashi",
+        "revisionDate": "Ranar bita",
+        "revisionNumber": "Lambar bita",
+        "revisions": "Bita",
+        "salesPerson": "Jami'in tallace-tallace",
+        "subtotal": "Ƙaramin jimilla",
+        "tax": "Haraji",
+        "total": "Jimilla"
+    }
+}

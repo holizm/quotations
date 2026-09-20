@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Gültig bis",
+        "customer": "Kunde",
+        "discount": "Rabatt",
+        "quotation": "Angebot",
+        "quotationDate": "Angebotsdatum",
+        "quotations": "Angebote",
+        "revisionDate": "Änderungsdatum",
+        "revisionNumber": "Änderungsnummer",
+        "revisions": "Änderungen",
+        "salesPerson": "Vertriebsmitarbeiter",
+        "subtotal": "Zwischensumme",
+        "tax": "Steuer",
+        "total": "Gesamt"
+    }
+}

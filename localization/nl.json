@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Geldig tot",
+        "customer": "Klant",
+        "discount": "Korting",
+        "quotation": "Offerte",
+        "quotationDate": "Offertedatum",
+        "quotations": "Offertes",
+        "revisionDate": "Revisiedatum",
+        "revisionNumber": "Revisienummer",
+        "revisions": "Revisies",
+        "salesPerson": "Verkoopmedewerker",
+        "subtotal": "Subtotaal",
+        "tax": "Belasting",
+        "total": "Totaal"
+    }
+}

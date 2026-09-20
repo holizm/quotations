@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Действительно до",
+        "customer": "Клиент",
+        "discount": "Скидка",
+        "quotation": "Коммерческое предложение",
+        "quotationDate": "Дата предложения",
+        "quotations": "Коммерческие предложения",
+        "revisionDate": "Дата редакции",
+        "revisionNumber": "Номер редакции",
+        "revisions": "Редакции",
+        "salesPerson": "Менеджер по продажам",
+        "subtotal": "Промежуточный итог",
+        "tax": "Налог",
+        "total": "Итого"
+    }
+}

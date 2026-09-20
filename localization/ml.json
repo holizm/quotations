@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "ഈ തീയതി വരെ സാധുത",
+        "customer": "ഉപഭോക്താവ്",
+        "discount": "കിഴിവ്",
+        "quotation": "ക്വട്ടേഷൻ",
+        "quotationDate": "ക്വട്ടേഷൻ തീയതി",
+        "quotations": "ക്വട്ടേഷനുകൾ",
+        "revisionDate": "പരിഷ്കരണ തീയതി",
+        "revisionNumber": "പരിഷ്കരണ നമ്പർ",
+        "revisions": "പരിഷ്കരണങ്ങൾ",
+        "salesPerson": "വിൽപ്പന പ്രതിനിധി",
+        "subtotal": "ഉപമൊത്തം",
+        "tax": "നികുതി",
+        "total": "ആകെ"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "اس تاریخ تک مؤثر",
+        "customer": "گاہک",
+        "discount": "رعایت",
+        "quotation": "قیمت نامہ",
+        "quotationDate": "قیمت نامے کی تاریخ",
+        "quotations": "قیمت نامے",
+        "revisionDate": "نظرثانی کی تاریخ",
+        "revisionNumber": "نظرثانی نمبر",
+        "revisions": "نظرثانیاں",
+        "salesPerson": "فروخت کنندہ",
+        "subtotal": "ذیلی مجموعہ",
+        "tax": "ٹیکس",
+        "total": "کل"
+    }
+}

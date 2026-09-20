@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "እስከዚህ ቀን ድረስ የሚሰራ",
+        "customer": "ደንበኛ",
+        "discount": "ቅናሽ",
+        "quotation": "የዋጋ ማቅረቢያ",
+        "quotationDate": "የዋጋ ማቅረቢያ ቀን",
+        "quotations": "የዋጋ ማቅረቢያዎች",
+        "revisionDate": "የማሻሻያ ቀን",
+        "revisionNumber": "የማሻሻያ ቁጥር",
+        "revisions": "ማሻሻያዎች",
+        "salesPerson": "የሽያጭ ተወካይ",
+        "subtotal": "ንዑስ ድምር",
+        "tax": "ግብር",
+        "total": "ጠቅላላ"
+    }
+}

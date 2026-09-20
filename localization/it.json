@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Valido fino al",
+        "customer": "Cliente",
+        "discount": "Sconto",
+        "quotation": "Preventivo",
+        "quotationDate": "Data del preventivo",
+        "quotations": "Preventivi",
+        "revisionDate": "Data di revisione",
+        "revisionNumber": "Numero di revisione",
+        "revisions": "Revisioni",
+        "salesPerson": "Addetto alle vendite",
+        "subtotal": "Subtotale",
+        "tax": "Imposta",
+        "total": "Totale"
+    }
+}

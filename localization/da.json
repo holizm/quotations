@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Gyldig til",
+        "customer": "Kunde",
+        "discount": "Rabat",
+        "quotation": "Tilbud",
+        "quotationDate": "Tilbudsdato",
+        "quotations": "Tilbud",
+        "revisionDate": "Revisionsdato",
+        "revisionNumber": "Revisionsnummer",
+        "revisions": "Revisioner",
+        "salesPerson": "Sælger",
+        "subtotal": "Subtotal",
+        "tax": "Afgift",
+        "total": "I alt"
+    }
+}

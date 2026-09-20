@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Giltig till",
+        "customer": "Kund",
+        "discount": "Rabatt",
+        "quotation": "Offert",
+        "quotationDate": "Offertdatum",
+        "quotations": "Offerter",
+        "revisionDate": "Revideringsdatum",
+        "revisionNumber": "Revideringsnummer",
+        "revisions": "Revideringar",
+        "salesPerson": "Säljare",
+        "subtotal": "Delsumma",
+        "tax": "Skatt",
+        "total": "Totalt"
+    }
+}

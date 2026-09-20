@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Platnost do",
+        "customer": "Zákazník",
+        "discount": "Sleva",
+        "quotation": "Cenová nabídka",
+        "quotationDate": "Datum nabídky",
+        "quotations": "Cenové nabídky",
+        "revisionDate": "Datum revize",
+        "revisionNumber": "Číslo revize",
+        "revisions": "Revize",
+        "salesPerson": "Prodejce",
+        "subtotal": "Mezisoučet",
+        "tax": "Daň",
+        "total": "Celkem"
+    }
+}

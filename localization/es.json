@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Válida hasta",
+        "customer": "Cliente",
+        "discount": "Descuento",
+        "quotation": "Cotización",
+        "quotationDate": "Fecha de cotización",
+        "quotations": "Cotizaciones",
+        "revisionDate": "Fecha de revisión",
+        "revisionNumber": "Número de revisión",
+        "revisions": "Revisiones",
+        "salesPerson": "Vendedor",
+        "subtotal": "Subtotal",
+        "tax": "Impuesto",
+        "total": "Total"
+    }
+}

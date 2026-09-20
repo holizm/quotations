@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Valable jusqu’au",
+        "customer": "Client",
+        "discount": "Remise",
+        "quotation": "Devis",
+        "quotationDate": "Date du devis",
+        "quotations": "Devis",
+        "revisionDate": "Date de révision",
+        "revisionNumber": "Numéro de révision",
+        "revisions": "Révisions",
+        "salesPerson": "Commercial",
+        "subtotal": "Sous-total",
+        "tax": "Taxe",
+        "total": "Total"
+    }
+}

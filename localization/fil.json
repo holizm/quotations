@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "May bisa hanggang",
+        "customer": "Kostumer",
+        "discount": "Diskuwento",
+        "quotation": "Presyong alok",
+        "quotationDate": "Petsa ng presyong alok",
+        "quotations": "Mga presyong alok",
+        "revisionDate": "Petsa ng rebisyon",
+        "revisionNumber": "Numero ng rebisyon",
+        "revisions": "Mga rebisyon",
+        "salesPerson": "Salesperson",
+        "subtotal": "Subtotal",
+        "tax": "Buwis",
+        "total": "Kabuuan"
+    }
+}

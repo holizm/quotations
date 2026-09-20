@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "পর্যন্ত বৈধ",
+        "customer": "গ্রাহক",
+        "discount": "ছাড়",
+        "quotation": "দরপত্র",
+        "quotationDate": "দরপত্রের তারিখ",
+        "quotations": "দরপত্রসমূহ",
+        "revisionDate": "সংশোধনের তারিখ",
+        "revisionNumber": "সংশোধন নম্বর",
+        "revisions": "সংশোধনসমূহ",
+        "salesPerson": "বিক্রয়কর্মী",
+        "subtotal": "উপমোট",
+        "tax": "কর",
+        "total": "মোট"
+    }
+}

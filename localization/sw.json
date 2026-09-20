@@ -1,0 +1,17 @@
+{
+    "common": {
+        "validUntilDate": "Halali hadi",
+        "customer": "Mteja",
+        "discount": "Punguzo",
+        "quotation": "Nukuu ya bei",
+        "quotationDate": "Tarehe ya nukuu",
+        "quotations": "Nukuu za bei",
+        "revisionDate": "Tarehe ya marekebisho",
+        "revisionNumber": "Nambari ya marekebisho",
+        "revisions": "Marekebisho",
+        "salesPerson": "Muuzaji",
+        "subtotal": "Jumla ndogo",
+        "tax": "Kodi",
+        "total": "Jumla"
+    }
+}

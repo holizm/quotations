@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Valid until",
-        "customer": "Customer",
         "discount": "Discount",
         "quotation": "Quotation",
         "quotationDate": "Quotation date",
@@ -12,6 +10,7 @@
         "salesPerson": "Salesperson",
         "subtotal": "Subtotal",
         "tax": "Tax",
-        "total": "Total"
+        "total": "Total",
+        "validUntilDate": "Valid until"
     }
 }

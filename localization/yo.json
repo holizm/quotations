@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Wúlò títí di",
-        "customer": "Oníbàárà",
         "discount": "Ẹ̀dinwó",
         "quotation": "Àkọsílẹ̀ iye owó",
         "quotationDate": "Ọjọ́ àkọsílẹ̀ iye owó",
@@ -12,6 +10,7 @@
         "salesPerson": "Aṣojú títà",
         "subtotal": "Àpapọ̀ kékeré",
         "tax": "Owó orí",
-        "total": "Àpapọ̀"
+        "total": "Àpapọ̀",
+        "validUntilDate": "Wúlò títí di"
     }
 }

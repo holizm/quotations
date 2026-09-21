@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Valido fino al",
-        "customer": "Cliente",
         "discount": "Sconto",
         "quotation": "Preventivo",
         "quotationDate": "Data del preventivo",
@@ -12,6 +10,7 @@
         "salesPerson": "Addetto alle vendite",
         "subtotal": "Subtotale",
         "tax": "Imposta",
-        "total": "Totale"
+        "total": "Totale",
+        "validUntilDate": "Valido fino al"
     }
 }

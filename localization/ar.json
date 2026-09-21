@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "صالح حتى",
-        "customer": "العميل",
         "discount": "الخصم",
         "quotation": "عرض سعر",
         "quotationDate": "تاريخ عرض السعر",
@@ -12,6 +10,7 @@
         "salesPerson": "مندوب المبيعات",
         "subtotal": "المجموع الفرعي",
         "tax": "الضريبة",
-        "total": "الإجمالي"
+        "total": "الإجمالي",
+        "validUntilDate": "صالح حتى"
     }
 }

@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Válida hasta",
-        "customer": "Cliente",
         "discount": "Descuento",
         "quotation": "Cotización",
         "quotationDate": "Fecha de cotización",
@@ -12,6 +10,7 @@
         "salesPerson": "Vendedor",
         "subtotal": "Subtotal",
         "tax": "Impuesto",
-        "total": "Total"
+        "total": "Total",
+        "validUntilDate": "Válida hasta"
     }
 }

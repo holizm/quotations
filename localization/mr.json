@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "पर्यंत वैध",
-        "customer": "ग्राहक",
         "discount": "सवलत",
         "quotation": "दरपत्रक",
         "quotationDate": "दरपत्रकाची तारीख",
@@ -12,6 +10,7 @@
         "salesPerson": "विक्रेता",
         "subtotal": "उपएकूण",
         "tax": "कर",
-        "total": "एकूण"
+        "total": "एकूण",
+        "validUntilDate": "पर्यंत वैध"
     }
 }

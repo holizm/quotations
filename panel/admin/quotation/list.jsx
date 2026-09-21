@@ -9,7 +9,7 @@ import Form from './form'
 const headers = <>
     <th start>quotationsQuotation</th>
     <th>quotationsNumber</th>
-    <th>quotationsCustomer</th>
+    <th>coreCustomer</th>
     <th>quotationsQuotationDate</th>
     <th>quotationsValidUntilDate</th>
     <th>quotationsTotal</th>

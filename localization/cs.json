@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Platnost do",
-        "customer": "Zákazník",
         "discount": "Sleva",
         "quotation": "Cenová nabídka",
         "quotationDate": "Datum nabídky",
@@ -12,6 +10,7 @@
         "salesPerson": "Prodejce",
         "subtotal": "Mezisoučet",
         "tax": "Daň",
-        "total": "Celkem"
+        "total": "Celkem",
+        "validUntilDate": "Platnost do"
     }
 }

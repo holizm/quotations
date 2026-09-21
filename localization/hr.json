@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Vrijedi do",
-        "customer": "Kupac",
         "discount": "Popust",
         "quotation": "Ponuda",
         "quotationDate": "Datum ponude",
@@ -12,6 +10,7 @@
         "salesPerson": "Prodajni predstavnik",
         "subtotal": "Međuzbroj",
         "tax": "Porez",
-        "total": "Ukupno"
+        "total": "Ukupno",
+        "validUntilDate": "Vrijedi do"
     }
 }

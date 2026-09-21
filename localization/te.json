@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "ఈ తేదీ వరకు చెల్లుబాటు",
-        "customer": "కస్టమర్",
         "discount": "తగ్గింపు",
         "quotation": "కొటేషన్",
         "quotationDate": "కొటేషన్ తేదీ",
@@ -12,6 +10,7 @@
         "salesPerson": "విక్రయ ప్రతినిధి",
         "subtotal": "ఉప మొత్తం",
         "tax": "పన్ను",
-        "total": "మొత్తం"
+        "total": "మొత్తం",
+        "validUntilDate": "ఈ తేదీ వరకు చెల్లుబాటు"
     }
 }

@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Valable jusqu’au",
-        "customer": "Client",
         "discount": "Remise",
         "quotation": "Devis",
         "quotationDate": "Date du devis",
@@ -12,6 +10,7 @@
         "salesPerson": "Commercial",
         "subtotal": "Sous-total",
         "tax": "Taxe",
-        "total": "Total"
+        "total": "Total",
+        "validUntilDate": "Valable jusqu’au"
     }
 }

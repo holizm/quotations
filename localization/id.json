@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Berlaku hingga",
-        "customer": "Pelanggan",
         "discount": "Diskon",
         "quotation": "Penawaran harga",
         "quotationDate": "Tanggal penawaran",
@@ -12,6 +10,7 @@
         "salesPerson": "Tenaga penjualan",
         "subtotal": "Subtotal",
         "tax": "Pajak",
-        "total": "Total"
+        "total": "Total",
+        "validUntilDate": "Berlaku hingga"
     }
 }

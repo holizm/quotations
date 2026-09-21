@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Érvényes eddig",
-        "customer": "Ügyfél",
         "discount": "Kedvezmény",
         "quotation": "Árajánlat",
         "quotationDate": "Árajánlat dátuma",
@@ -12,6 +10,7 @@
         "salesPerson": "Értékesítő",
         "subtotal": "Részösszeg",
         "tax": "Adó",
-        "total": "Összesen"
+        "total": "Összesen",
+        "validUntilDate": "Érvényes eddig"
     }
 }

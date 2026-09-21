@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Действительно до",
-        "customer": "Клиент",
         "discount": "Скидка",
         "quotation": "Коммерческое предложение",
         "quotationDate": "Дата предложения",
@@ -12,6 +10,7 @@
         "salesPerson": "Менеджер по продажам",
         "subtotal": "Промежуточный итог",
         "tax": "Налог",
-        "total": "Итого"
+        "total": "Итого",
+        "validUntilDate": "Действительно до"
     }
 }

@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Giltig till",
-        "customer": "Kund",
         "discount": "Rabatt",
         "quotation": "Offert",
         "quotationDate": "Offertdatum",
@@ -12,6 +10,7 @@
         "salesPerson": "Säljare",
         "subtotal": "Delsumma",
         "tax": "Skatt",
-        "total": "Totalt"
+        "total": "Totalt",
+        "validUntilDate": "Giltig till"
     }
 }

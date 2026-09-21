@@ -15,7 +15,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='quotationsCustomer'
+        placeholder='coreCustomer'
         property='customer'
         required
     />

@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Дійсна до",
-        "customer": "Клієнт",
         "discount": "Знижка",
         "quotation": "Цінова пропозиція",
         "quotationDate": "Дата пропозиції",
@@ -12,6 +10,7 @@
         "salesPerson": "Менеджер із продажу",
         "subtotal": "Проміжний підсумок",
         "tax": "Податок",
-        "total": "Усього"
+        "total": "Усього",
+        "validUntilDate": "Дійсна до"
     }
 }

@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Gyldig til",
-        "customer": "Kunde",
         "discount": "Rabat",
         "quotation": "Tilbud",
         "quotationDate": "Tilbudsdato",
@@ -12,6 +10,7 @@
         "salesPerson": "Sælger",
         "subtotal": "Subtotal",
         "tax": "Afgift",
-        "total": "I alt"
+        "total": "I alt",
+        "validUntilDate": "Gyldig til"
     }
 }

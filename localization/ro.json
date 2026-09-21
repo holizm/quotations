@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Valabilă până la",
-        "customer": "Client",
         "discount": "Reducere",
         "quotation": "Ofertă de preț",
         "quotationDate": "Data ofertei",
@@ -12,6 +10,7 @@
         "salesPerson": "Agent de vânzări",
         "subtotal": "Subtotal",
         "tax": "Taxă",
-        "total": "Total"
+        "total": "Total",
+        "validUntilDate": "Valabilă până la"
     }
 }

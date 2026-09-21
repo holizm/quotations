@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "有效期至",
-        "customer": "客户",
         "discount": "折扣",
         "quotation": "报价单",
         "quotationDate": "报价日期",
@@ -12,6 +10,7 @@
         "salesPerson": "销售人员",
         "subtotal": "小计",
         "tax": "税费",
-        "total": "总计"
+        "total": "总计",
+        "validUntilDate": "有效期至"
     }
 }

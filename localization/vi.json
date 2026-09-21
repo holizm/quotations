@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Có hiệu lực đến",
-        "customer": "Khách hàng",
         "discount": "Giảm giá",
         "quotation": "Báo giá",
         "quotationDate": "Ngày báo giá",
@@ -12,6 +10,7 @@
         "salesPerson": "Nhân viên bán hàng",
         "subtotal": "Tạm tính",
         "tax": "Thuế",
-        "total": "Tổng cộng"
+        "total": "Tổng cộng",
+        "validUntilDate": "Có hiệu lực đến"
     }
 }

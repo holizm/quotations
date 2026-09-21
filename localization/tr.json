@@ -1,7 +1,5 @@
 {
     "common": {
-        "validUntilDate": "Geçerlilik tarihi",
-        "customer": "Müşteri",
         "discount": "İndirim",
         "quotation": "Fiyat teklifi",
         "quotationDate": "Teklif tarihi",
@@ -12,6 +10,7 @@
         "salesPerson": "Satış temsilcisi",
         "subtotal": "Ara toplam",
         "tax": "Vergi",
-        "total": "Toplam"
+        "total": "Toplam",
+        "validUntilDate": "Geçerlilik tarihi"
     }
 }

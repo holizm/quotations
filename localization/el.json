@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Έκπτωση",
         "quotation": "Προσφορά",
         "quotationDate": "Ημερομηνία προσφοράς",
         "quotations": "Προσφορές",
@@ -10,7 +9,6 @@
         "salesPerson": "Πωλητής",
         "subtotal": "Μερικό σύνολο",
         "tax": "Φόρος",
-        "total": "Σύνολο",
         "validUntilDate": "Ισχύει έως"
     }
 }

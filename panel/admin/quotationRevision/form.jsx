@@ -23,7 +23,7 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='quotationsTotal'
+        placeholder='coreTotal'
         property='total'
         required
     />

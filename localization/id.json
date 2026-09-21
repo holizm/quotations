@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Diskon",
         "quotation": "Penawaran harga",
         "quotationDate": "Tanggal penawaran",
         "quotations": "Penawaran harga",
@@ -10,7 +9,6 @@
         "salesPerson": "Tenaga penjualan",
         "subtotal": "Subtotal",
         "tax": "Pajak",
-        "total": "Total",
         "validUntilDate": "Berlaku hingga"
     }
 }

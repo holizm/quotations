@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "تخفیف",
         "quotation": "پیش‌فاکتور",
         "quotationDate": "تاریخ پیش‌فاکتور",
         "quotations": "پیش‌فاکتورها",
@@ -10,7 +9,6 @@
         "salesPerson": "کارشناس فروش",
         "subtotal": "جمع جزء",
         "tax": "مالیات",
-        "total": "مجموع",
         "validUntilDate": "مهلت اعتبار"
     }
 }

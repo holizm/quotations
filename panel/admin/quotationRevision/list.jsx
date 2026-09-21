@@ -8,7 +8,7 @@ const headers = <>
     <th start>quotationsQuotation</th>
     <th>quotationsRevisionNumber</th>
     <th>quotationsRevisionDate</th>
-    <th>quotationsTotal</th>
+    <th>coreTotal</th>
 </>
 
 const row = item => <>

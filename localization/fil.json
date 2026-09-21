@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Diskuwento",
         "quotation": "Presyong alok",
         "quotationDate": "Petsa ng presyong alok",
         "quotations": "Mga presyong alok",
@@ -10,7 +9,6 @@
         "salesPerson": "Salesperson",
         "subtotal": "Subtotal",
         "tax": "Buwis",
-        "total": "Kabuuan",
         "validUntilDate": "May bisa hanggang"
     }
 }

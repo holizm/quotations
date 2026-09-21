@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Afslag",
         "quotation": "Kwotasie",
         "quotationDate": "Kwotasiedatum",
         "quotations": "Kwotasies",
@@ -10,7 +9,6 @@
         "salesPerson": "Verkoopsverteenwoordiger",
         "subtotal": "Subtotaal",
         "tax": "Belasting",
-        "total": "Totaal",
         "validUntilDate": "Geldig tot"
     }
 }

@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "割引",
         "quotation": "見積書",
         "quotationDate": "見積日",
         "quotations": "見積書",
@@ -10,7 +9,6 @@
         "salesPerson": "営業担当者",
         "subtotal": "小計",
         "tax": "税",
-        "total": "合計",
         "validUntilDate": "有効期限"
     }
 }

@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Korting",
         "quotation": "Offerte",
         "quotationDate": "Offertedatum",
         "quotations": "Offertes",
@@ -10,7 +9,6 @@
         "salesPerson": "Verkoopmedewerker",
         "subtotal": "Subtotaal",
         "tax": "Belasting",
-        "total": "Totaal",
         "validUntilDate": "Geldig tot"
     }
 }

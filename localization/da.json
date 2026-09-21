@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Rabat",
         "quotation": "Tilbud",
         "quotationDate": "Tilbudsdato",
         "quotations": "Tilbud",
@@ -10,7 +9,6 @@
         "salesPerson": "Sælger",
         "subtotal": "Subtotal",
         "tax": "Afgift",
-        "total": "I alt",
         "validUntilDate": "Gyldig til"
     }
 }

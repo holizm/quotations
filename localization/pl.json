@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Rabat",
         "quotation": "Oferta cenowa",
         "quotationDate": "Data oferty",
         "quotations": "Oferty cenowe",
@@ -10,7 +9,6 @@
         "salesPerson": "Sprzedawca",
         "subtotal": "Suma częściowa",
         "tax": "Podatek",
-        "total": "Razem",
         "validUntilDate": "Ważna do"
     }
 }

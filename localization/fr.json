@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Remise",
         "quotation": "Devis",
         "quotationDate": "Date du devis",
         "quotations": "Devis",
@@ -10,7 +9,6 @@
         "salesPerson": "Commercial",
         "subtotal": "Sous-total",
         "tax": "Taxe",
-        "total": "Total",
         "validUntilDate": "Valable jusqu’au"
     }
 }

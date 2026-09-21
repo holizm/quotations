@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Desconto",
         "quotation": "Cotação",
         "quotationDate": "Data da cotação",
         "quotations": "Cotações",
@@ -10,7 +9,6 @@
         "salesPerson": "Vendedor",
         "subtotal": "Subtotal",
         "tax": "Imposto",
-        "total": "Total",
         "validUntilDate": "Válida até"
     }
 }

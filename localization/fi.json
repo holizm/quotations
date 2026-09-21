@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Alennus",
         "quotation": "Tarjous",
         "quotationDate": "Tarjouksen päiväys",
         "quotations": "Tarjoukset",
@@ -10,7 +9,6 @@
         "salesPerson": "Myyjä",
         "subtotal": "Välisumma",
         "tax": "Vero",
-        "total": "Yhteensä",
         "validUntilDate": "Voimassa asti"
     }
 }

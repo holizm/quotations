@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "İndirim",
         "quotation": "Fiyat teklifi",
         "quotationDate": "Teklif tarihi",
         "quotations": "Fiyat teklifleri",
@@ -10,7 +9,6 @@
         "salesPerson": "Satış temsilcisi",
         "subtotal": "Ara toplam",
         "tax": "Vergi",
-        "total": "Toplam",
         "validUntilDate": "Geçerlilik tarihi"
     }
 }

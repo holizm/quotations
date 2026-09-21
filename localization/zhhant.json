@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "折扣",
         "quotation": "報價單",
         "quotationDate": "報價日期",
         "quotations": "報價單",
@@ -10,7 +9,6 @@
         "salesPerson": "銷售人員",
         "subtotal": "小計",
         "tax": "稅費",
-        "total": "總計",
         "validUntilDate": "有效期至"
     }
 }

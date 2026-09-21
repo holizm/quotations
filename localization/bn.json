@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "ছাড়",
         "quotation": "দরপত্র",
         "quotationDate": "দরপত্রের তারিখ",
         "quotations": "দরপত্রসমূহ",
@@ -10,7 +9,6 @@
         "salesPerson": "বিক্রয়কর্মী",
         "subtotal": "উপমোট",
         "tax": "কর",
-        "total": "মোট",
         "validUntilDate": "পর্যন্ত বৈধ"
     }
 }

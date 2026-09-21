@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Sleva",
         "quotation": "Cenová nabídka",
         "quotationDate": "Datum nabídky",
         "quotations": "Cenové nabídky",
@@ -10,7 +9,6 @@
         "salesPerson": "Prodejce",
         "subtotal": "Mezisoučet",
         "tax": "Daň",
-        "total": "Celkem",
         "validUntilDate": "Platnost do"
     }
 }

@@ -43,7 +43,7 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='quotationsDiscount'
+        placeholder='coreDiscount'
         property='discount'
     />
     <Numeric
@@ -51,7 +51,7 @@ const inputs = <>
         property='tax'
     />
     <Numeric
-        placeholder='quotationsTotal'
+        placeholder='coreTotal'
         property='total'
         required
     />

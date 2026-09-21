@@ -12,7 +12,7 @@ const headers = <>
     <th>coreCustomer</th>
     <th>quotationsQuotationDate</th>
     <th>quotationsValidUntilDate</th>
-    <th>quotationsTotal</th>
+    <th>coreTotal</th>
     <th>stateMachinesState</th>
 </>
 

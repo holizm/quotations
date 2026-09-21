@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "ส่วนลด",
         "quotation": "ใบเสนอราคา",
         "quotationDate": "วันที่เสนอราคา",
         "quotations": "ใบเสนอราคา",
@@ -10,7 +9,6 @@
         "salesPerson": "พนักงานขาย",
         "subtotal": "ยอดรวมย่อย",
         "tax": "ภาษี",
-        "total": "ยอดรวม",
         "validUntilDate": "ใช้ได้ถึง"
     }
 }

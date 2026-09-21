@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Знижка",
         "quotation": "Цінова пропозиція",
         "quotationDate": "Дата пропозиції",
         "quotations": "Цінові пропозиції",
@@ -10,7 +9,6 @@
         "salesPerson": "Менеджер із продажу",
         "subtotal": "Проміжний підсумок",
         "tax": "Податок",
-        "total": "Усього",
         "validUntilDate": "Дійсна до"
     }
 }

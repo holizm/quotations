@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "ਛੋਟ",
         "quotation": "ਦਰ-ਪੇਸ਼ਕਸ਼",
         "quotationDate": "ਦਰ-ਪੇਸ਼ਕਸ਼ ਦੀ ਮਿਤੀ",
         "quotations": "ਦਰ-ਪੇਸ਼ਕਸ਼ਾਂ",
@@ -10,7 +9,6 @@
         "salesPerson": "ਵਿਕਰੀ ਪ੍ਰਤੀਨਿਧੀ",
         "subtotal": "ਉਪ-ਕੁੱਲ",
         "tax": "ਟੈਕਸ",
-        "total": "ਕੁੱਲ",
         "validUntilDate": "ਇਸ ਮਿਤੀ ਤੱਕ ਵੈਧ"
     }
 }

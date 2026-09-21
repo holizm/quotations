@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "ቅናሽ",
         "quotation": "የዋጋ ማቅረቢያ",
         "quotationDate": "የዋጋ ማቅረቢያ ቀን",
         "quotations": "የዋጋ ማቅረቢያዎች",
@@ -10,7 +9,6 @@
         "salesPerson": "የሽያጭ ተወካይ",
         "subtotal": "ንዑስ ድምር",
         "tax": "ግብር",
-        "total": "ጠቅላላ",
         "validUntilDate": "እስከዚህ ቀን ድረስ የሚሰራ"
     }
 }

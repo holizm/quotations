@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "رعایت",
         "quotation": "قیمت نامہ",
         "quotationDate": "قیمت نامے کی تاریخ",
         "quotations": "قیمت نامے",
@@ -10,7 +9,6 @@
         "salesPerson": "فروخت کنندہ",
         "subtotal": "ذیلی مجموعہ",
         "tax": "ٹیکس",
-        "total": "کل",
         "validUntilDate": "اس تاریخ تک مؤثر"
     }
 }

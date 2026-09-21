@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Rangwame",
         "quotation": "Tayin farashi",
         "quotationDate": "Ranar tayin farashi",
         "quotations": "Tayin farashi",
@@ -10,7 +9,6 @@
         "salesPerson": "Jami'in tallace-tallace",
         "subtotal": "Ƙaramin jimilla",
         "tax": "Haraji",
-        "total": "Jimilla",
         "validUntilDate": "Yana aiki har zuwa"
     }
 }

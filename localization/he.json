@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "הנחה",
         "quotation": "הצעת מחיר",
         "quotationDate": "תאריך הצעת המחיר",
         "quotations": "הצעות מחיר",
@@ -10,7 +9,6 @@
         "salesPerson": "איש מכירות",
         "subtotal": "סכום ביניים",
         "tax": "מס",
-        "total": "סך הכול",
         "validUntilDate": "בתוקף עד"
     }
 }

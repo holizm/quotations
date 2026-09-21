@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Rabatt",
         "quotation": "Angebot",
         "quotationDate": "Angebotsdatum",
         "quotations": "Angebote",
@@ -10,7 +9,6 @@
         "salesPerson": "Vertriebsmitarbeiter",
         "subtotal": "Zwischensumme",
         "tax": "Steuer",
-        "total": "Gesamt",
         "validUntilDate": "Gültig bis"
     }
 }

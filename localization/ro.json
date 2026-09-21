@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Reducere",
         "quotation": "Ofertă de preț",
         "quotationDate": "Data ofertei",
         "quotations": "Oferte de preț",
@@ -10,7 +9,6 @@
         "salesPerson": "Agent de vânzări",
         "subtotal": "Subtotal",
         "tax": "Taxă",
-        "total": "Total",
         "validUntilDate": "Valabilă până la"
     }
 }

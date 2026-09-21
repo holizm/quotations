@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "ರಿಯಾಯಿತಿ",
         "quotation": "ದರಪಟ್ಟಿ",
         "quotationDate": "ದರಪಟ್ಟಿ ದಿನಾಂಕ",
         "quotations": "ದರಪಟ್ಟಿಗಳು",
@@ -10,7 +9,6 @@
         "salesPerson": "ಮಾರಾಟ ಪ್ರತಿನಿಧಿ",
         "subtotal": "ಉಪಮೊತ್ತ",
         "tax": "ತೆರಿಗೆ",
-        "total": "ಒಟ್ಟು",
         "validUntilDate": "ಈ ದಿನಾಂಕದವರೆಗೆ ಮಾನ್ಯ"
     }
 }

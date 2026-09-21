@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Отстъпка",
         "quotation": "Ценова оферта",
         "quotationDate": "Дата на офертата",
         "quotations": "Ценови оферти",
@@ -10,7 +9,6 @@
         "salesPerson": "Търговец",
         "subtotal": "Междинна сума",
         "tax": "Данък",
-        "total": "Общо",
         "validUntilDate": "Валидна до"
     }
 }

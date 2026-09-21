@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "Rabatt",
         "quotation": "Tilbud",
         "quotationDate": "Tilbudsdato",
         "quotations": "Tilbud",
@@ -10,7 +9,6 @@
         "salesPerson": "Selger",
         "subtotal": "Delsum",
         "tax": "Avgift",
-        "total": "Totalt",
         "validUntilDate": "Gyldig til"
     }
 }

@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "الخصم",
         "quotation": "عرض سعر",
         "quotationDate": "تاريخ عرض السعر",
         "quotations": "عروض الأسعار",
@@ -10,7 +9,6 @@
         "salesPerson": "مندوب المبيعات",
         "subtotal": "المجموع الفرعي",
         "tax": "الضريبة",
-        "total": "الإجمالي",
         "validUntilDate": "صالح حتى"
     }
 }

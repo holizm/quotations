@@ -1,6 +1,5 @@
 {
     "common": {
-        "discount": "छूट",
         "quotation": "कोटेशन",
         "quotationDate": "कोटेशन की तारीख",
         "quotations": "कोटेशन",
@@ -10,7 +9,6 @@
         "salesPerson": "विक्रेता",
         "subtotal": "उप-योग",
         "tax": "कर",
-        "total": "कुल",
         "validUntilDate": "तक मान्य"
     }
 }

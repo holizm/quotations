@@ -7,7 +7,7 @@ export default [
             },
             {
                 path: '/quotations/quotationRevision/list',
-                title: 'quotationsRevisions',
+                title: 'quotationsQuotationRevisions',
             },
         ],
         icon: 'requestQuote',

@@ -8,29 +8,22 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='quotation'
-        property='quotation'
+        quotation
         required
     />
     <Numeric
-        placeholder='revisionNumber'
-        property='revisionNumber'
         required
+        revisionNumber
     />
     <DateTime
-        placeholder='revisionDate'
-        property='revisionDate'
         required
+        revisionDate
     />
     <Numeric
-        placeholder='total'
-        property='total'
         required
+        total
     />
-    <LongText
-        placeholder='reason'
-        property='reason'
-    />
+    <LongText reason />
 </>
 
 export default <DialogForm inputs={inputs} />

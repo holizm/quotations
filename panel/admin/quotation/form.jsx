@@ -10,55 +10,34 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
-        placeholder='customer'
-        property='customer'
+        customer
         required
     />
-    <Text
-        placeholder='salesPerson'
-        property='salesPerson'
-    />
+    <Text salesPerson />
     <DateTime
-        placeholder='quotationDate'
-        property='quotationDate'
+        quotationDate
         required
     />
-    <DateTime
-        placeholder='validUntilDate'
-        property='validUntilDate'
-    />
+    <DateTime validUntilDate />
     <Text
-        placeholder='currency'
-        property='currency'
+        currency
         required
     />
     <Numeric
-        placeholder='subtotal'
-        property='subtotal'
         required
+        subtotal
     />
+    <Numeric discount />
+    <Numeric tax />
     <Numeric
-        placeholder='discount'
-        property='discount'
-    />
-    <Numeric
-        placeholder='tax'
-        property='tax'
-    />
-    <Numeric
-        placeholder='total'
-        property='total'
         required
+        total
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

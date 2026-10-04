@@ -8,27 +8,27 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='quotationsQuotation'
+        placeholder='quotation'
         property='quotation'
         required
     />
     <Numeric
-        placeholder='quotationsRevisionNumber'
+        placeholder='revisionNumber'
         property='revisionNumber'
         required
     />
     <DateTime
-        placeholder='quotationsRevisionDate'
+        placeholder='revisionDate'
         property='revisionDate'
         required
     />
     <Numeric
-        placeholder='coreTotal'
+        placeholder='total'
         property='total'
         required
     />
     <LongText
-        placeholder='quotationsReason'
+        placeholder='reason'
         property='reason'
     />
 </>

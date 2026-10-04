@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/quotations/quotation/list',
-                title: 'quotationsQuotations',
+                title: 'quotations',
             },
             {
                 path: '/quotations/quotationRevision/list',
-                title: 'quotationsQuotationRevisions',
+                title: 'quotationRevisions',
             },
         ],
         icon: 'requestQuote',
         path: '/quotations',
-        title: 'quotationsQuotations',
+        title: 'quotations',
     },
 ]

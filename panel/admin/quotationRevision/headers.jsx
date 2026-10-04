@@ -1,6 +1,6 @@
 export default <>
-    <th start>quotationsQuotation</th>
-    <th>quotationsRevisionNumber</th>
-    <th>quotationsRevisionDate</th>
-    <th>coreTotal</th>
+    <th start>quotation</th>
+    <th>revisionNumber</th>
+    <th>revisionDate</th>
+    <th>total</th>
 </>

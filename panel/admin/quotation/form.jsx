@@ -10,53 +10,53 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='quotationsNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='coreCustomer'
+        placeholder='customer'
         property='customer'
         required
     />
     <Text
-        placeholder='quotationsSalesPerson'
+        placeholder='salesPerson'
         property='salesPerson'
     />
     <DateTime
-        placeholder='quotationsQuotationDate'
+        placeholder='quotationDate'
         property='quotationDate'
         required
     />
     <DateTime
-        placeholder='quotationsValidUntilDate'
+        placeholder='validUntilDate'
         property='validUntilDate'
     />
     <Text
-        placeholder='quotationsCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
     <Numeric
-        placeholder='quotationsSubtotal'
+        placeholder='subtotal'
         property='subtotal'
         required
     />
     <Numeric
-        placeholder='coreDiscount'
+        placeholder='discount'
         property='discount'
     />
     <Numeric
-        placeholder='quotationsTax'
+        placeholder='tax'
         property='tax'
     />
     <Numeric
-        placeholder='coreTotal'
+        placeholder='total'
         property='total'
         required
     />
     <LongText
-        placeholder='quotationsDescription'
+        placeholder='description'
         property='description'
     />
 </>

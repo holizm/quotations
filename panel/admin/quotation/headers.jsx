@@ -1,9 +1,9 @@
 export default <>
-    <th start>quotationsQuotation</th>
-    <th>quotationsNumber</th>
-    <th>coreCustomer</th>
-    <th>quotationsQuotationDate</th>
-    <th>quotationsValidUntilDate</th>
-    <th>coreTotal</th>
-    <th>stateMachinesState</th>
+    <th start>quotation</th>
+    <th>number</th>
+    <th>customer</th>
+    <th>quotationDate</th>
+    <th>validUntilDate</th>
+    <th>total</th>
+    <th>state</th>
 </>
